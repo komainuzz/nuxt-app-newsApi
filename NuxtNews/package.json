@@ -1,7 +1,7 @@
 {
-  "name": "NuxtApp",
+  "name": "NuxtNews",
   "version": "1.0.0",
-  "description": "My supreme Nuxt.js project",
+  "description": "My astonishing Nuxt.js project",
   "author": "Koma",
   "private": true,
   "scripts": {
@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "nuxt": "^2.0.0",
-    "nuxt-buefy": "^0.3.2",
     "@nuxtjs/axios": "^5.3.6"
   },
   "devDependencies": {

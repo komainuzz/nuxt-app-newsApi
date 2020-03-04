@@ -1,6 +1,6 @@
-# NuxtApp
+# NuxtNews
 
-> My supreme Nuxt.js project
+> My astonishing Nuxt.js project
 
 ## Build Setup
 
